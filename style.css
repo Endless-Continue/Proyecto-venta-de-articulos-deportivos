@@ -10,8 +10,8 @@ h1 {
 }
 
 .producto {
-  border: 1px solid #ccc;
-  background-color: #fff;
+  border: 1px solid #333;
+  background-color: #1e1e1e;
   padding: 15px;
   margin-top: 15px;
   width: 250px;
@@ -21,12 +21,12 @@ h1 {
 .producto h2 {
   font-size: 18px;
   margin-top: 0;
-  color: #0056b3;
+  color: #ffffff;
 }
 
 .producto p {
   margin: 5px 0;
-  color: #555;
+  color: #aaaaaa;
 }
 
 .contenedor-productos {
